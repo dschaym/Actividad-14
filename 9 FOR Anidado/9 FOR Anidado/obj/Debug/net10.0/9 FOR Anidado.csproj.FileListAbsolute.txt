@@ -1,0 +1,14 @@
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\9 FOR Anidado\9 FOR Anidado\bin\Debug\net10.0\9 FOR Anidado.exe
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\9 FOR Anidado\9 FOR Anidado\bin\Debug\net10.0\9 FOR Anidado.deps.json
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\9 FOR Anidado\9 FOR Anidado\bin\Debug\net10.0\9 FOR Anidado.runtimeconfig.json
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\9 FOR Anidado\9 FOR Anidado\bin\Debug\net10.0\9 FOR Anidado.dll
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\9 FOR Anidado\9 FOR Anidado\bin\Debug\net10.0\9 FOR Anidado.pdb
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\9 FOR Anidado\9 FOR Anidado\obj\Debug\net10.0\9 FOR Anidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\9 FOR Anidado\9 FOR Anidado\obj\Debug\net10.0\9 FOR Anidado.AssemblyInfoInputs.cache
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\9 FOR Anidado\9 FOR Anidado\obj\Debug\net10.0\9 FOR Anidado.AssemblyInfo.cs
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\9 FOR Anidado\9 FOR Anidado\obj\Debug\net10.0\9 FOR Anidado.csproj.CoreCompileInputs.cache
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\9 FOR Anidado\9 FOR Anidado\obj\Debug\net10.0\9 FOR Anidado.dll
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\9 FOR Anidado\9 FOR Anidado\obj\Debug\net10.0\refint\9 FOR Anidado.dll
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\9 FOR Anidado\9 FOR Anidado\obj\Debug\net10.0\9 FOR Anidado.pdb
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\9 FOR Anidado\9 FOR Anidado\obj\Debug\net10.0\9 FOR Anidado.genruntimeconfig.cache
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\9 FOR Anidado\9 FOR Anidado\obj\Debug\net10.0\ref\9 FOR Anidado.dll

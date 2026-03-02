@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diana Sofia Chay\\Documents\\Actividad 14\\16 while\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88BCEEE5-F829-4FCA-8CB0-10C6D6F821D6}|16 while\\16 while.csproj|c:\\users\\diana sofia chay\\documents\\actividad 14\\16 while\\16 while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BCEEE5-F829-4FCA-8CB0-10C6D6F821D6}|16 while\\16 while.csproj|solutionrelative:16 while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diana Sofia Chay\\Documents\\Actividad 14\\16 while\\16 while\\Program.cs",
+              "RelativeDocumentMoniker": "16 while\\Program.cs",
+              "ToolTip": "C:\\Users\\Diana Sofia Chay\\Documents\\Actividad 14\\16 while\\16 while\\Program.cs",
+              "RelativeToolTip": "16 while\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAABSWcURwAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T04:42:00.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

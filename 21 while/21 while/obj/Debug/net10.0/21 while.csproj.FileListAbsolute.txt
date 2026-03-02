@@ -1,0 +1,14 @@
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\21 while\21 while\bin\Debug\net10.0\21 while.exe
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\21 while\21 while\bin\Debug\net10.0\21 while.deps.json
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\21 while\21 while\bin\Debug\net10.0\21 while.runtimeconfig.json
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\21 while\21 while\bin\Debug\net10.0\21 while.dll
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\21 while\21 while\bin\Debug\net10.0\21 while.pdb
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\21 while\21 while\obj\Debug\net10.0\21 while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\21 while\21 while\obj\Debug\net10.0\21 while.AssemblyInfoInputs.cache
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\21 while\21 while\obj\Debug\net10.0\21 while.AssemblyInfo.cs
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\21 while\21 while\obj\Debug\net10.0\21 while.csproj.CoreCompileInputs.cache
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\21 while\21 while\obj\Debug\net10.0\21 while.dll
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\21 while\21 while\obj\Debug\net10.0\refint\21 while.dll
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\21 while\21 while\obj\Debug\net10.0\21 while.pdb
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\21 while\21 while\obj\Debug\net10.0\21 while.genruntimeconfig.cache
+C:\Users\Diana Sofia Chay\Documents\Actividad 14\21 while\21 while\obj\Debug\net10.0\ref\21 while.dll
